@@ -11,7 +11,8 @@ Desarrollo Web y Aplicaciones Digitales
 
 - Actualmente estoy trabajando en **pagina de turismo**
 
-- 👨 🔭 💻 Todos mis proyectos están disponibles en [https://damianbravo.github.io/](https://damianbravo.github.io/)
+- 👨 🔭 💻 Todos mis proyectos están disponibles en https://github.com/damianBRAVO
+-my portfolio [https://damianbravo.github.io/](https://damianbravo.github.io/)
 
 - Pregúntame sobre **JAVA, PYTHON, MYSQL,CSS, HTML JAVA SCRIPT BOOSTRAP**- 💬 Cómo comunicarse conmigo **bravo_damian_raul@live.com**
 
@@ -19,7 +20,7 @@ Desarrollo Web y Aplicaciones Digitales
 
 <h3 align="left">Conéctate conmigo:</h3><
 p align="left">
-<a href="https://dev.to/dev.damianbravo" target="blank"><img align="center" src=" 📫 https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.damianbravo" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/damian-bravo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" https://www.linkedin.com/in/damian-bravo" height="30" width="40" /></a><a href="https://fb.com/damianbravo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damianbravo" height="30" width="40" /></a></p>
 
 
